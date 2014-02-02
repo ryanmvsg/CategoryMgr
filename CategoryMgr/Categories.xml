@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Categories>
+  <CategoryRoot>
+    <Category Id="{05935-2305-2055-2305}" CategoryName="Laptops">
+      <Category Id="{05923-204-59201-4042}" CategoryName="Dell">
+        <Category Id="{505930-35903502-2045-25035-56357}" CategoryName="Test 45" />
+      </Category>
+    </Category>
+    <Category Id="{1600db79-d2e2-4e5d-8e5b-6840b90d5ee6}" CategoryName="Desktops">
+      <Category Id="{28641f54-8f76-4928-8ac7-d866b1affebb}" CategoryName="HP" />
+      <Category Id="{553e9f03-eb47-4fd6-b8dd-c05765b7b630}" CategoryName="Acer" />
+      <Category Id="{48059b9c-42e3-4114-b68c-42f73acc8705}" CategoryName="Lenovo" />
+      <Category Id="{018e5e1e-a465-464b-9882-52a2d84ea8ce}" CategoryName="Gateway" />
+      <Category Id="{9f58b0c4-7fd7-4a77-8a52-0b7e9bec9346}" CategoryName="Dell" />
+      <Category Id="{b50891f8-b374-4997-a166-2cc5592d2814}" CategoryName="ASUS" />
+      <Category Id="{70a68a1f-92f0-451a-a106-8ce880813d3f}" CategoryName="Sony" />
+      <Category Id="{c447bf32-67a1-4535-8a7a-b903cb9be48e}" CategoryName="Toshiba" />
+    </Category>
+  </CategoryRoot>
+</Categories>
